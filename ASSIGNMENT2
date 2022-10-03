@@ -1,0 +1,26 @@
+public class app 
+{
+    public static void main(String[] args) throws Exception {
+
+        for (int i = 5; i != 0; i--) {
+            System.out.println("Allen");
+        if (i == 5);
+        System.out.println("The Artist");
+        }
+        int nicknameCount=5;    
+        while (nicknameCount!=0){
+       
+        nicknameCount--;
+        if (nicknameCount == 3)
+        System.out.println (" go ahead i will skip this loop, i will cointinue ");
+        }
+        
+        
+        int surnameCount=5;
+        do {
+        System.out.println(" surname: Inocencio");
+        surnameCount--;} 
+        while (surnameCount!=0);
+        
+    }
+}
